@@ -1,4 +1,4 @@
 # git-demo
 this is my first git demo setup
-<br>
-Author - Ajay Singh 
+<br><br><br>
+Author -> Ajay Singh (dotNet Developers)
